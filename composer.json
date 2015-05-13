@@ -1,0 +1,11 @@
+{
+  "require": {
+    "phpunit/phpunit": "@stable",
+    "doctrine/orm": "@stable"
+  },
+  "autoload": {
+    "psr-0": {
+      "Application": "src"
+    }
+  }
+}
